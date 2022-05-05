@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 25px;
+    background-color: lightgrey;
+}
+
+#app, html{
+    background-color: #F1F1F1F1;
+}
+
+.col-12 {
+    padding-top: 0!important;
+    padding-bottom: 0 !important;
+}
+.theme--light.v-input {
+    padding-top: 0 !important;
+}
+.v-input__slot {
+    margin-bottom: 3px !important;
+}
